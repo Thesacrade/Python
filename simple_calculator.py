@@ -1,7 +1,7 @@
 """
 Write a Python program that does the following:
 
-Takes two numbers as input from the user (hint: use input() and int()).
+Takes two numbers as input from the user
 Performs addition, subtraction, multiplication, and division on those numbers.
 Prints the results of these operations.
 Additionally, ask the user for their name and greet them with a message.
